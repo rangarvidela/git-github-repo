@@ -1,2 +1,2 @@
 # git-github-repo
-This is testing purpose - Git
+This is testing purpose - GitGit
